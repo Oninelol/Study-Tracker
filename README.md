@@ -13,12 +13,12 @@ The goal of this project is to help students understand their study habits, comp
 
 ## Example
 
-Study Time Summary:
-ECE 120: 5.5 hours
-MATH 241: 3.0 hours
-PHYS 212: 4.25 hours
+Study Time Summary: \\
 
-Total study time: 12.75 hours
+- ECE 120: 5.5 hours
+- MATH 241: 3.0 hours
+- PHYS 212: 4.25 hours
+- Total study time: 12.75 hours
 
 
 ## Motivation
